@@ -1,0 +1,7 @@
+# Only upload the three requested asset folders and repository configuration.
+/*
+!/.gitignore
+!/.gitattributes
+!/BGM/
+!/参考视频/
+!/上伊娜牡丹/
